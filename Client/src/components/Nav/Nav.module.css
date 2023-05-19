@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+   */
+   justify-content: space-around;
+    flex-flow: row wrap;    
+    /* left: 20%;
+    top: 20px ; */
+    position: absolute;
+    background-color: rgb(69, 68, 68);
+    border-radius: 5%;
+}   
+
+.linkNav{
+    position: relative;
+    top: 20px;
+    color: aliceblue;
+    cursor: pointer;
+    outline: none;
+    background: transparent;
+}
+
+.botonLogout{
+    width: 70px;
+    height: 25px;
+    color: aliceblue;
+    position: relative;
+    top: 20px;
+    background-color: black;
+}
+
+.logo{
+    width: 20%;
+    position: relative;
+    left: 0;
+}

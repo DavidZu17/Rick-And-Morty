@@ -1,0 +1,13 @@
+@import url('https://fonts.google.com/specimen/Jolly+Lodger?preview.size=8&query=Jolly+Lodger');
+
+
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Creepster', cursive;
+  
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
